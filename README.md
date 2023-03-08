@@ -1,3 +1,14 @@
+dependabot
+
+# Dependabot
+
+Based on "Keep all your packages up to date with Dependabot" at https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/
+
+Based on "Configuration options for the dependabot.yml file" at https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file#configuration-options-for-the-dependabotyml-file
+
+Based on "I love codeflow" at https://github.com/stackblitz/ilovecodeflow.com used for an example npm registry, no other need for these files
+
+
 # ilovecodeflow.com
 
 Do you love [Codeflow](https://developer.stackblitz.com/codeflow/what-is-codeflow)? We do!
