@@ -21,4 +21,7 @@ updates:
       - dependency-name: "react*"
     # Add assignees
     assignees:
-      - "wvanheemstra"  
+      - "wvanheemstra"
+    commit-message:
+      # Prefix all commit messages with "npm: "
+      prefix: "npm"      
