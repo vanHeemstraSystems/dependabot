@@ -22,6 +22,9 @@ updates:
     # Add assignees
     assignees:
       - "wvanheemstra"
+    # Add reviewers
+    reviewers:
+      - "wvanheemstra" 
     commit-message:
       # Prefix all commit messages with "npm: "
       prefix: "npm"
